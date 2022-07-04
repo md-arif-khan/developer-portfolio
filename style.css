@@ -13,6 +13,7 @@ h1{
     display:flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
     
     
 }   
@@ -34,4 +35,19 @@ h1{
 }
 .text-side p{
     text-align: justify;
+}
+.dream-big{
+    display:flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.Rbutton{
+    background-image:linear-gradient(to right,orange, tomato);
+    padding:9px 40px;
+    border:none;
+    border-radius: 7px;
+    font-weight: bold;
+    color:white;
 }
